@@ -1,5 +1,5 @@
 front/
 emulator_wasm/
-build.bat
+build_push.bat
 dev_build.bat
 
